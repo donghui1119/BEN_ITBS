@@ -16,12 +16,21 @@ This body of work collectively highlights the potential of BEN as a robust bioma
 ## Availability of data and materials ##
 
 All MRI data are available in the online repository of OpenNeuro ds001832 (https://openneuro.org/datasets/ds001832/versions/1.0.1).
+
 All neurotransmitter receptor/transporter maps are available at https://github.com/netneurolab/hansen_receptors/tree/main/data/PET_nifti_images.
+
 The BEN maps and unthresholded statistical maps are available from OSF (https://osf.io/73h65/).
+
 All unthresholded statistical maps and the masks used in the study are available from https://neurovault.org/collections/QYIWAEYS/.
+
 Further information related to this study will be available at https://github.com/donghui1119/BEN_ITBS.
+
 The fmriprep is available from https://fmriprep.org/en/0.6.4/index.html.
-Nilearn is available from https://nilearn.github.io/dev/index.html. SPM is available from https://www.fil.ion.ucl.ac.uk/spm/software/spm12/.
+
+Nilearn is available from https://nilearn.github.io/dev/index.html. 
+
+SPM is available from https://www.fil.ion.ucl.ac.uk/spm/software/spm12/.
+
 AFNI is available from https://afni.nimh.nih.gov/.
 
 
