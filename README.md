@@ -32,9 +32,13 @@ We thank Isabel Alkhasli et al [4] and Justine Y. Hansen et al [5] for releasing
 References
 
 1.Donghui Song, W. P., Zhang, J., Shang, Y., & Wang, Z. (2017). Decreased brain entropy by 20 Hz rTMS on the left dorsolateral prefrontal cortex. In Annual meeting of International Congress of MRI, Seoul, Korea.
+
 2. Song, D., Chang, D., Zhang, J., Peng, W., Shang, Y., Gao, X., & Wang, Z. (2019). Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults. Brain imaging and behavior, 13, 421-429.
+
 3. Song, D. H., Deng, X. P., Shang, Y. Q., Chang, D., & Wang, Z. (2024). Altered resting-state brain entropy (BEN) by rTMS across the human cortex. bioRxiv, 2024-07.
+ 
 4. Alkhasli, I., Sakreida, K., Mottaghy, F. M., & Binkofski, F. (2019). Modulation of fronto-striatal functional connectivity using transcranial magnetic stimulation. Frontiers in human neuroscience, 13, 190.
+ 
 5. Hansen, J. Y., Shafiei, G., Markello, R. D., Smart, K., Cox, S. M., Nørgaard, M., ... & Misic, B. (2022). Mapping neurotransmitter systems to the structural and functional organization of the human neocortex. Nature neuroscience, 25(11), 1569-1581.
 
 
