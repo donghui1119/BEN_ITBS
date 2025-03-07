@@ -13,7 +13,7 @@ These consistent findings across different stimulation protocols underscore the 
 This body of work collectively highlights the potential of BEN as a robust biomarker for assessing neuroplastic changes induced by different rTMS protocols while demonstrating remarkable consistency across diverse experimental settings
 
 
-Availability of data and materials
+## Availability of data and materials ##
 
 All MRI data are available in the online repository of OpenNeuro ds001832 (https://openneuro.org/datasets/ds001832/versions/1.0.1).
 All neurotransmitter receptor/transporter maps are available at https://github.com/netneurolab/hansen_receptors/tree/main/data/PET_nifti_images.
@@ -25,11 +25,11 @@ Nilearn is available from https://nilearn.github.io/dev/index.html. SPM is avail
 AFNI is available from https://afni.nimh.nih.gov/.
 
 
-Acknowledgments
+## Acknowledgments ##
 
 We thank Isabel Alkhasli et al [4] and Justine Y. Hansen et al [5] for releasing their datasets.
 
-References
+## References ##
 
 1.Donghui Song, W. P., Zhang, J., Shang, Y., & Wang, Z. (2017). Decreased brain entropy by 20 Hz rTMS on the left dorsolateral prefrontal cortex. In Annual meeting of International Congress of MRI, Seoul, Korea.
 
