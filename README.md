@@ -31,7 +31,8 @@ We thank Isabel Alkhasli et al [4] and Justine Y. Hansen et al [5] for releasing
 
 ## References ##
 
-1.Donghui Song, W. P., Zhang, J., Shang, Y., & Wang, Z. (2017). Decreased brain entropy by 20 Hz rTMS on the left dorsolateral prefrontal cortex. In Annual meeting of International Congress of MRI, Seoul, Korea.
+
+1. Donghui Song, W. P., Zhang, J., Shang, Y., & Wang, Z. (2017). Decreased brain entropy by 20 Hz rTMS on the left dorsolateral prefrontal cortex. In Annual meeting of International Congress of MRI, Seoul, Korea.
 
 2. Song, D., Chang, D., Zhang, J., Peng, W., Shang, Y., Gao, X., & Wang, Z. (2019). Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults. Brain imaging and behavior, 13, 421-429.
 
