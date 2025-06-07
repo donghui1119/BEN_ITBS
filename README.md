@@ -34,12 +34,17 @@ SPM is available from https://www.fil.ion.ucl.ac.uk/spm/software/spm12/.
 AFNI is available from https://afni.nimh.nih.gov/.
 
 
+
+## If this work is helpful to your research, please cite it as:##
+
+Liu, P., Song, D., Deng, X., Shang, Y., Ge, Q., Wang, Z., & Zhang, H. (2025). The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN). Neurotherapeutics, 22(3), e00556.
+
+
 ## Acknowledgments ##
 
 We thank Isabel Alkhasli et al [4] and Justine Y. Hansen et al [5] for releasing their datasets.
 
 ## References ##
-
 
 1. Donghui Song, W. P., Zhang, J., Shang, Y., & Wang, Z. (2017). Decreased brain entropy by 20 Hz rTMS on the left dorsolateral prefrontal cortex. In Annual meeting of International Congress of MRI, Seoul, Korea.
 
