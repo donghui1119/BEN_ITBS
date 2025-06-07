@@ -35,7 +35,7 @@ AFNI is available from https://afni.nimh.nih.gov/.
 
 
 
-## If this work is helpful to your research, please cite it as:##
+## If this work is helpful to your research, please cite it as:
 
 Liu, P., Song, D., Deng, X., Shang, Y., Ge, Q., Wang, Z., & Zhang, H. (2025). The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN). Neurotherapeutics, 22(3), e00556.
 
