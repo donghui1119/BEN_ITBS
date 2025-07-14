@@ -1,15 +1,20 @@
 # The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN)
 
+
+## Publication
+
 We are pleased to announce that this work has recently been accepted for publication in Neurotherapeutics, and you may access the full text through the following link:https://www.sciencedirect.com/science/article/pii/S1878747925000340#coi0010.
+
+
+## Finds
 
 This study investigated the effects of iTBS over the left dorsolateral prefrontal cortex (DLPFC) at different stimulation intensities on brain entropy (BEN). The findings revealed that subthreshold (90% rMT) iTBS reduced striatal BEN, while suprathreshold  (120% rMT) iTBS increased striatal BEN. Furthermore, subthreshold iTBS altered the baseline correlation between BEN and neurotransmitter receptor/transporter maps. These results suggest that subthreshold iTBS may be a more beneficial stimulation approach, whereas suprathreshold iTBS could potentially induce transient adverse effects.
 
 This study is part of our series investigating noninvasive brain stimulation (NBS). As early as 2017, we employed resting-state BEN to examine the effects of high-frequency repetitive transcranial magnetic stimulation (rTMS) over the left DLPFC in healthy young adults (Song, Chang et al. 2017, Song, Chang et al. 2019). Our findings revealed reduced BEN in the medial orbitofrontal cortex and subgenual anterior cingulate cortex (MOFC/sgACC), key regions implicated in emotional regulation. This discovery suggests a potential mechanism underlying the antidepressant effects of high-frequency rTMS over the left DLPFC, namely through top-down modulation of temporal coherence between the left DLPFC and MOFC/sgACC, thereby enhancing emotional regulation.
 
-Furthermore, our recent study using publicly available datasets from another laboratory demonstrated increased resting-state BEN in the MOFC/sgACC following low-frequency rTMS over the left DLPFC. This work is currently undergoing peer review, and a preprint version has been published on bioRxiv (https://doi.org/10.1101/2024.07.16.601109) (Song, Deng et al. 2024). This work is forthcoming in Cerebral Cortex.
+Furthermore, our recent study using publicly available datasets from OpenNeuro ds001927 (https://openneuro.org/datasets/ds001927/versions/2.1.0)  (Castrillon et al. 2025) demonstrated increased resting-state BEN in the MOFC/sgACC following low-frequency rTMS over the left DLPFC (Song, Deng et al. 2025). This work is currently published in Cerebral Cortex.
 
 Notably, a 10-day course of HF-rTMS targeting the left DLPFC in chronic smokers was found to induce significant reductions in striatal BEN (Chang, Zhang et al. 2018).
-
 
 These consistent findings across different stimulation protocols underscore the robustness of BEN as a tool for detecting neural plasticity. Notably, BEN demonstrates sensitivity to various rTMS protocols and maintains its reliability across different laboratories, experimental environments, and fMRI scanning parameters.
 
@@ -37,20 +42,21 @@ SPM is available from https://www.fil.ion.ucl.ac.uk/spm/software/spm12/.
 AFNI is available from https://afni.nimh.nih.gov/.
 
 
+## Citation
 
-## If this work is helpful to your research, please cite it as:
-
-Liu, P., Song, D., Deng, X., Shang, Y., Ge, Q., Wang, Z., & Zhang, H. (2025). The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN). Neurotherapeutics, 22(3), e00556.
+If this work is helpful to your research, please cite it as: Liu, P., Song, D., Deng, X., Shang, Y., Ge, Q., Wang, Z., & Zhang, H. (2025). The effects of intermittent theta burst stimulation (iTBS) on resting-state brain entropy (BEN). Neurotherapeutics, 22(3), e00556.
 
 
 ## Acknowledgments ##
 
-We thank Isabel Alkhasli et al [4] and Justine Y. Hansen et al [5] for releasing their datasets.
+We thank Isabel Alkhasli et al (2019) and Justine Y. Hansen et al (2022) for releasing their datasets.
 
 
 ## References ##
 
 Alkhasli, I., Sakreida, K., Mottaghy, F. M., & Binkofski, F. (2019). Modulation of fronto-striatal functional connectivity using transcranial magnetic stimulation. Frontiers in human neuroscience, 13, 190.
+
+Castrillon, G., Sollmann, N., Kurcyus, K., Razi, A., Krieg, S. M., & Riedl, V. (2020). The physiological effects of noninvasive brain stimulation fundamentally differ across the human cortex. Science Advances, 6(5), eaay2739.
 
 Chang, D., J. Zhang, W. Peng, Z. Shen, X. Gao, Y. Du, Q. Ge, D. Song, Y. Shang and Z. Wang (2018). "Smoking cessation with 20 Hz repetitive transcranial magnetic stimulation (rTMS) applied to two brain regions: a pilot study." Frontiers in human neuroscience 12: 344.
 
@@ -60,7 +66,7 @@ Hansen, J. Y., Shafiei, G., Markello, R. D., Smart, K., Cox, S. M., Nørgaard, M
 
 Song, D., Chang, D., Zhang, J., Peng, W., Shang, Y., Gao, X., & Wang, Z. (2019). Reduced brain entropy by repetitive transcranial magnetic stimulation on the left dorsolateral prefrontal cortex in healthy young adults. Brain imaging and behavior, 13, 421-429.
 
-Song, D. H., Deng, X. P., Shang, Y. Q., Chang, D., & Wang, Z. (2024). Altered resting-state brain entropy (BEN) by rTMS across the human cortex. bioRxiv, 2024-07.
+Song, D., Deng, X., Chang, D., Wang, Z. (2025). Altered resting-state brain entropy by repetitive transcranial magnetic stimulation across the human cortex, Cerebral Cortex, 35, 7. https://doi.org/10.1093/cercor/bhaf171
  
 
 
